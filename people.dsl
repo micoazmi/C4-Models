@@ -1,3 +1,3 @@
 user = person "User" {
-    description "A user of the system"
+    description "A user of the system this"
 }

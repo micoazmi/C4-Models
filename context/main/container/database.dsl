@@ -1,4 +1,4 @@
-database = container "Database" {
+rdatabase = container "Database" {
     description "Stores all data for the application."
     technology "PostgreSQL"
 

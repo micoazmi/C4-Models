@@ -1,7 +1,7 @@
 dynamic mobile {
     title "Book"
 
-    user -> mobileBookPage 
+    user -> mobileBookPage  
     mobileBookPage -> bookController 
     bookController -> database
 

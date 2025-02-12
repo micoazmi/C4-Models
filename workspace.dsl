@@ -6,13 +6,13 @@ workspace {
         // People (Users)
         !include people.dsl
 
-        // Main System
+        // // // Main System
         !include context/main/context.dsl
 
-        // External System
+        // // // External System
         !include context/external/context.dsl
 
-        // Relationships
+        // // // Relationships
         !include features/relationships.dsl
     }
 

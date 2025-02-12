@@ -1,15 +1,14 @@
 mainSystem = softwareSystem "Medpoint System" {
-    description "medpoint"
 
-    // Mobile Application container
+    // Mobile Application containeraqsasassssssssssssssSS  sx sX
     !include container/mobile.dsl
     
-    // Web Application container
+    // // Web Application container
     !include container/web.dsl
     
-    // Backend container
+    // // Backend container
     !include container/backend.dsl
     
-    // Database container
+    // // Database container
     !include container/database.dsl
 }
